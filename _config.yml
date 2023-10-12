@@ -4,8 +4,8 @@
 title: Shijie Cao
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to My Personal Academic Homepage.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+baseurl: "/" # the subpath of the site
+url: "https://cls1277.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/ava.jpg
 google_analytics: "UA-121636368-3"
 
@@ -17,7 +17,6 @@ header:
     - name: Downloads
     - name: Links
     - name: Contact
-    - name: Work
     - name: Blog
 
 footer:
