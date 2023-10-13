@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+I was born in Dezhou city, Shandong province, China in 2002. Now, I am pursuing my B.Eng. degree in Computer Science and Technology, China University of Geosciences, Wuhan, China. My supervisor is Prof. Wenyin Gong.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/cls1277">GitHub</a>.
+My research interests include Distributed Shop Scheduling, Evolutionary Multiobjective Optimization.
 </p>
