@@ -3,7 +3,7 @@ layout: post
 title:  "cugacm training"
 date:   2023-10-28 17:48:40
 blurb: "A page about CUG ACM training."
-# og_image: /assets/img/content/post-example/cugacm.jpg
+og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
 #### Table of Contents
