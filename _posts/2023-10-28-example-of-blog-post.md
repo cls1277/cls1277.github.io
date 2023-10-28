@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "cugacm training"
+title:  "Post example 2"
 date:   2023-10-28 17:48:40
-blurb: "A page about CUG ACM training."
+blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
+
 
 #### Table of Contents
 1. [基础算法](#基础算法)
