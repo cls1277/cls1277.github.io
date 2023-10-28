@@ -14,9 +14,6 @@ items:
   #     alt: sand
   #   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
   - title: Shijie Cao, R. Li, W. Gong*, Inverse model and adaptive neighborhood search based cooperative optimizer for energy-efficient distributed flexible job shop scheduling, Swarm and Evolutionary Computation.
-    image:
-      src: /assets/img/work/waiting1.png
-      alt: accept
     description: Solving the energy-efficient distributed flexible job shop scheduling problem (EEDFJSP) obtains increased attention. However, most previous studies barely considered the large-scale nature of the decision variables of EEDFJSP. In this paper, the large-scale EEDFJSP with two minimized objectives of makespan and total energy consumption (TEC) is studied. To efficiently deal with this problem, an inverse model and adaptive neighborhood search based cooperative optimizer is proposed. First, the inverse model is applied to the job shop scheduling problem. Then, the inverse model and adaptive local search operators cooperate search is designed to obtain offspring. Furthermore, an adaptive strategy for local search operators is developed. Finally, it is compared with other multi-objective optimization algorithms to confirm the effectiveness of the proposed algorithm, including MOEA/D, NSGA-II, IM-MOEA/D, HMMA, HSLFA, and SPAMA. Experimental results demonstrate the superior performance in solving EEDFJSP compared to these six state-of-the-art multi-objective optimization algorithms.
 ---
 
