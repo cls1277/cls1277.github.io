@@ -13,5 +13,5 @@ layout: default
 <p>
 <b>Dataset</b>
 <br/>
-[1] Benchmark instances for job-shop scheduling problem <a href="https://github.com/cls1277/JSP-benchmark  target="_blank">[github]</a> <a href="https://www.eii.uva.es/elena/JSSP/InstancesJSSP.htm" target="_blank">[Elena Perez/JSSP]</a>
+[1] Benchmark instances for job-shop scheduling problem <a href="https://github.com/cls1277/JSP-benchmark" target="_blank">[github]</a> <a href="https://www.eii.uva.es/elena/JSSP/InstancesJSSP.htm" target="_blank">[Elena Perez/JSSP]</a>
 </p>
