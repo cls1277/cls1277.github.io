@@ -14,6 +14,8 @@ layout: default
 <b>Dataset</b>
 <br/>
 [1] Benchmark instances for job-shop scheduling problem <a href="https://github.com/cls1277/JSP-benchmark" target="_blank">[github]</a> <a href="https://www.eii.uva.es/elena/JSSP/InstancesJSSP.htm" target="_blank">[Elena Perez/JSSP]</a>
+<br/>
+[2] Benchmark instances for flexible job-shop scheduling problem <a href="https://github.com/cls1277/FJSP-benchmark" target="_blank">[github]</a> <a href="https://people.idsia.ch/~monaldo/fjsp.html" target="_blank">[IDSIA Monaldo]</a>
 </p>
 
 <p>
