@@ -12,7 +12,7 @@ items:
   - title: <strong>Shijie Cao</strong>, Y. Yuan*,
     description: A Novel Memetic Algorithm for Energy-efficient Distributed Heterogeneous Flexible Job Shop Scheduling: Case Studies in UAVs Delivery, IEEE Internet of Things Journal. Under review.
     code: https://github.com/cls1277/NSHSM
-    lang: C++
+    lang: Cpp
     paper: https://cls1277.com/publications
     id: 2
 ---
