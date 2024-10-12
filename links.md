@@ -73,9 +73,12 @@ Sometimes, in my free time, I ponder, 'What makes research meaningful?' I've bee
         <li><a href="https://hartwork.org/beamer-theme-matrix/" target="_blank">Beamer Theme Matrix</a></li>
         <li><a href="https://ccfddl.top/" target="_blank">CCF Conference Deadlines</a></li>
         <li><a href="https://deftpdf.com/zh/crop-pdf" target="_blank">crop PDF</a></li>
+        <li><a href="https://csdiy.wiki/" target="_blank">CS diy</a></li>
+        <li><a href="https://feflowjs.com/zh/guide/rule-git-commit.html" target="_blank">Git Commit</a></li>
         <li><a href="https://csacademy.com/app/graph_editor/" target="_blank">Graph Editor</a></li>
         <li><a href="https://www.latextemplates.com/" target="_blank">LaTeX Templates</a></li>
         <li><a href="https://www.letpub.com.cn/" target="_blank">LetPub</a></li>
+        <li><a href="https://seisman.github.io/how-to-write-makefile/index.html" target="_blank">Makefile</a></li>
         <li><a href="https://webdemo.myscript.com/" target="_blank">MyScript</a></li>
         <li><a href="https://www.bruot.org/ris2bib/" target="_blank">Online ris2bib</a></li>
         <li><a href="https://paperswithcode.com/" target="_blank">Papers With Code</a></li>
@@ -113,6 +116,7 @@ Sometimes, in my free time, I ponder, 'What makes research meaningful?' I've bee
     <ul>
         <li><a href="https://web.xidian.edu.cn/liuding/index.html" target="_blank">Ding Liu (Xidian University)</a></li>
         <li><a href="https://www.guofei.site/" target="_blank">Fei Guo (蚂蚁集团-天堑实验室)</a></li>
+        <li><a href="https://web.njit.edu/~zhou/" target="_blank">Mengchu Zhou (Macau University of Science and Technology)</a></li>
         <li><a href="https://cuglirui.github.io/index.html" target="_blank">Rui Li (Tsinghua University)</a></li>
         <li><a href="https://wewnyin.github.io/wenyingong/" target="_blank">Wenyin Gong (China University of Geoscience (Wuhan))</a></li>
     </ul>
