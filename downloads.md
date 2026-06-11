@@ -13,10 +13,13 @@ layout: default
 [2] RACE-Sched&#58; asynchronous agentic framework for dynamic scheduling
 <a href="https://github.com/cls1277/RACE-Sched" target="_blank">[Python]</a>
 <br/>
-[3] A Novel Memetic Algorithm for Energy-efficient Distributed Heterogeneous Flexible Job Shop Scheduling
+[3] CoCoEvo&#58; Co-Evolution of Programs and Test Cases to Enhance Code Generation
+<a href="https://github.com/lbaf23/llm-cocoevo" target="_blank">[Python]</a>
+<br/>
+[4] A Novel Memetic Algorithm for Energy-efficient Distributed Heterogeneous Flexible Job Shop Scheduling
 <a href="https://github.com/cls1277/NSHSM" target="_blank">[C++]</a>
 <br/>
-[4] Inverse Model and Adaptive Neighborhood Search Based Cooperative Optimizer for Energy-efficient Distributed Flexible Job Shop Scheduling
+[5] Inverse Model and Adaptive Neighborhood Search Based Cooperative Optimizer for Energy-efficient Distributed Flexible Job Shop Scheduling
 <a href="https://github.com/cls1277/IMANS" target="_blank">[Matlab]</a>
 </p>
 

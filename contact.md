@@ -15,13 +15,15 @@ layout: default
 <p>
 <b>Affiliations:</b>
 <br/>
-Scientific and Engineering Intelligence Center, Shenzhen Loop Area Institute, Shenzhen, P.R. China
+AI4SE, Shenzhen Loop Area Institute, Shenzhen, P.R. China
 <br/>
 School of Computer Science and Engineering, Beihang University, Beijing, P.R. China
 </p>
 
 <p>
 <b>Academic Profiles:</b>
+<br/>
+GoogleScholar: <a href="https://scholar.google.com/citations?user=HpWVjCsAAAAJ&hl=zh-CN" target="_blank">Shijie Cao</a>
 <br/>
 ResearchGate: <a href="https://www.researchgate.net/profile/Shijie-Cao-4" target="_blank">Shijie-Cao-4</a>
 <br/>
