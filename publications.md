@@ -16,7 +16,7 @@ items:
     paper: https://arxiv.org/abs/2605.29262
     id: 2
   - title: <strong>Shijie Cao</strong>, Y. Yuan*, J. Liu
-    description: ReflecSched: Solving Dynamic Flexible Job-Shop Scheduling via LLM-Powered Hierarchical Reflection, 2025.
+    description: ReflecSched&#58; Solving Dynamic Flexible Job-Shop Scheduling via LLM-Powered Hierarchical Reflection, 2025.
     code: 
     lang: After accepting
     paper: https://arxiv.org/abs/2508.01724
