@@ -24,12 +24,12 @@ School of Computer Science and Engineering, Beihang University, Beijing, P.R. Ch
 <b>Academic Profiles:</b>
 <br/>
 GoogleScholar: <a href="https://scholar.google.com/citations?user=HpWVjCsAAAAJ&hl=zh-CN" target="_blank">Shijie Cao</a>
-<br/>
+<!-- <br/>
 ResearchGate: <a href="https://www.researchgate.net/profile/Shijie-Cao-4" target="_blank">Shijie-Cao-4</a>
 <br/>
 ORCID: <a href="https://orcid.org/my-orcid?orcid=0009-0007-1206-0157" target="_blank">0009-0007-1206-0157</a>
 <br/>
-Web of Science: <a href="https://www.webofscience.com/wos/author/record/IRZ-2022-2023" target="_blank">IRZ-2022-2023</a>
+Web of Science: <a href="https://www.webofscience.com/wos/author/record/IRZ-2022-2023" target="_blank">IRZ-2022-2023</a> -->
 <br/>
 GitHub: <a href="https://github.com/cls1277" target="_blank">cls1277</a>
 </p>
